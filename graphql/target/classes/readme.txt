@@ -1,0 +1,14 @@
+query{
+   allBooks{
+    id
+    title
+    desc
+}
+}
+--------
+query{
+    getBook(bookId:1){
+        title
+        desc
+    }
+}
