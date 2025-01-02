@@ -1,3 +1,4 @@
+--------------Query endpoints---------------
 query{
    allBooks{
     id
